@@ -1,0 +1,50 @@
+.bg-nav{
+    background-color: #FFF9F4;
+}
+.nav-logo-size{
+    width: 250px;
+    height: 35px;
+}
+.slider-title{
+    font-size: 78px;
+}
+.slider-title span{
+    color: #FA804C;
+}
+.slider-text{
+    color:#3E3E3E;
+}
+.slider{
+    padding: 50px 0;
+}
+.carousel-indicators [data-bs-target] {
+    width: 70px;
+    height: 5px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+.card-img-1,.card-img-2,.card-img-3{
+    height: 300px;
+}
+.card-img-1 img{
+    width: 311px;
+    height: 311px;
+}
+.card-img-2 img{
+    width: 236px;
+    height: 262px;
+}
+.card-img-3 img{
+    width: 283px;
+    height: 288px;
+}
+.price{
+    color: #FA804C;
+}
+.card-shadow{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+.main-buttom{
+    margin: 100px 0;
+}
